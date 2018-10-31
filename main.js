@@ -274,7 +274,7 @@
     },
     {
       'command': `!bracket`,
-      'value': `https://challonge.com/fr/urlrandomqzjk`
+      'value': `Bracket du tournoi netplay du jeudi`
     }
   ];
   
