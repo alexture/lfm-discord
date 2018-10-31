@@ -42,10 +42,10 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
       <ul class="nav navbar-nav mr-auto" role="tablist">
         <li class="nav-item">
-          <a href="#faq" id="faq-tab" class="nav-link active" data-toggle="tab" role="tab" aria-controls="faq" aria-selected="true">FAQ <span class="sr-only">(current)</span></a>
+          <a href="#faq" id="faq-tab" class="nav-link disabled" data-toggle="tab" role="tab" aria-controls="faq" aria-selected="true">FAQ <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a href="#commands" id="commands-tab" class="nav-link" data-toggle="tab" role="tab" aria-controls="commands" aria-selected="false">Commandes bot</a>
+          <a href="#commands" id="commands-tab" class="nav-link active" data-toggle="tab" role="tab" aria-controls="commands" aria-selected="false">Commandes bot</a>
         </li>
       </ul>
     </div>
@@ -53,13 +53,14 @@
   
   <main role="main" class="container">
     <div class="starter-template tab-content">
-      <div class="tab-pane show active" id="faq" role="tabpanel" aria-labelledby="faq-tab">
+      <div class="tab-pane" id="faq" role="tabpanel" aria-labelledby="faq-tab">
         <h1>FAQ</h1>
         <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
       </div>
-      <div class="tab-pane" id="commands" role="tabpanel" aria-labelledby="commands-tab">
+      <div class="tab-pane show active" id="commands" role="tabpanel" aria-labelledby="commands-tab">
         <h1>Commandes bot</h1>
         <p class="lead" id="commands-content"></p>
+        <p class="lead" id="meme-content"></p>
         </div>
     </div>
     
