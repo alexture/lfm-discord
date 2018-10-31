@@ -275,6 +275,10 @@
     {
       'command': '!bracket',
       'value': 'Bracket du tournoi netplay du jeudi'
+    },
+    {
+      'command': '!slippi',
+      'value': 'https://medium.com/project-slippi/project-public-release-4080c81d7205'
     }
   ];
   
