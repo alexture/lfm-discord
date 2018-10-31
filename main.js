@@ -18,14 +18,17 @@
     },
     {
       'command': `!bestoption`,
+      'type': `meme`,
       'value': `Knee ledgecancel turnaround ftilt`
     },
     {
       'command': `!spacie, !spacies`,
+      'type': `meme`,
       'value': `mais je crois qu'il y a toute la partie "comment je bats ça" qui vous échappe tant elle est évidente avec un spacie. je pense pas que le main fox se pose souvent la question de "merde qu'est-ce que je fais si mon adv se met à spam ça ?" (déjà faudrait que le joueur de fox se pose des questions au lieu de faire 36 inputs useless ou choix useless parce que c'est joli)`
     },
     {
       'command': `!mainsnues`,
+      'type': `meme`,
       'value': `Je pratique melee depuis maintenant 6 ans, du versus fighting en parallèle depuis 7 ans, je pourrai. Ainsi que la musculation depuis 4 ans, 1m87 pour 86 kg J'ai une vitesse de fou, et des réflexes identiques à ma vitesse. J'ai juste à l'attendre qu'il me charge, l'esquiver et lui donner des bons knees dans la tête. Je le lâcherai pas à la moindre erreur, le falco est fini. T'auras toujours des puceaux d'ici pour penser que c'est impossible. Rien n'est impossible avec de la volonté déjà les amis, et de 2) c'est pas avec vos mains de lâche que vous allez faire quoi que ce soit <:yatangaki:439505146540457991>. N'importe quel homme un minimum entraîné peut vaincre un falco avec un blaster déjà. À main nue c'est pas forcément plus compliqué ça demande juste de la technique.`
     },
     {
@@ -242,6 +245,7 @@
     },
     {
       'command': `!epee`,
+      'type': `meme`,
       'value': `Marth fais partis de la famille des personnages à épée. Il se sert presque tout le temps de son arme. Il dispose d'attaque relevant de son style.`
     },
     {
@@ -275,12 +279,7 @@
   ];
   
   for (let item of commands) {
-    $('#commands-content').append(`
-      <div class="mt-5">
-        <span class="font-weight-bold">${item.command}</span>
-        <br/>
-        ${item.value}
-      </div>
-    `)
+    let idContainer = item.type === 'meme' ? 'meme' : 'commands'
+    $('#' + idContainer + '-content').append('<div class="mt-4"><span class="font-weight-bold">' + item.command + '</span><br/>' + item.value + '</div>')
   }
 })();
