@@ -2,7 +2,7 @@
   let commands = [
     {
       'command': '!aide, !aled, !bot, !list, !commands, !commandes',
-      'value': 'Affiche cette page'
+      'value': 'Lien cette page'
     },
     {
       'command': '!5tips',
