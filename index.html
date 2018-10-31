@@ -20,7 +20,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
   <link rel="manifest" href="favicon/manifest.json">
   <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
   
   <title>Discord LFM - Aide</title>
@@ -42,10 +42,10 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
       <ul class="nav navbar-nav mr-auto" role="tablist">
         <li class="nav-item">
-          <a href="#faq" id="faq-tab" class="nav-link disabled" data-toggle="tab" role="tab" aria-controls="faq" aria-selected="true">FAQ <span class="sr-only">(current)</span></a>
+          <a href="#commands" id="commands-tab" class="nav-link active" data-toggle="tab" role="tab" aria-controls="commands" aria-selected="false">Commandes bot</a>
         </li>
         <li class="nav-item">
-          <a href="#commands" id="commands-tab" class="nav-link active" data-toggle="tab" role="tab" aria-controls="commands" aria-selected="false">Commandes bot</a>
+          <a href="#faq" id="faq-tab" class="nav-link" data-toggle="tab" role="tab" aria-controls="faq" aria-selected="true">FAQ Netplay</a>
         </li>
       </ul>
     </div>
@@ -54,13 +54,13 @@
   <main role="main" class="container">
     <div class="starter-template tab-content">
       <div class="tab-pane" id="faq" role="tabpanel" aria-labelledby="faq-tab">
-        <h1>FAQ</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+        <h1>FAQ Netplay</h1>
+        <p id="faq-netplay-content"></p>
       </div>
       <div class="tab-pane show active" id="commands" role="tabpanel" aria-labelledby="commands-tab">
         <h1>Commandes bot</h1>
-        <p class="lead" id="commands-content"></p>
-        <p class="lead" id="meme-content"></p>
+        <p id="commands-content"></p>
+        <p id="meme-content"></p>
         </div>
     </div>
   </main><!-- /.container -->

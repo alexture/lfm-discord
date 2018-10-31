@@ -1,0 +1,42 @@
+[  
+  {  
+     "question":"Quelle version de Faster Melee est utilisée pour jouer en netplay ?",
+     "answer":"Faster Melee R12 ou 5.9."
+  },
+  {  
+     "question":"Et quelle version de Melee ?",
+     "answer":"ISO Nordic."
+  },
+  {  
+     "question":"Où est-ce que je les trouve ?",
+     "answer":"Ils sont épinglés dans le channel #netplay. Les commandes !r12 et !latestfm sont également disponibles pour retrouver le lien rapidement."
+  },
+  {  
+     "question":"C'est quoi l'ISO Nordic ?",
+     "answer":"C'est une version de Melee moddée pour optimiser le netplay."
+  },
+  {  
+     "question":"Pourquoi pas PAL community build ?",
+     "answer":"Le community build est une version NTSC modifiée pour imiter la PAL, alors que Nordic a une base PAL. Le community build a donc quelques restes de NTSC, notamment les side b de Falcon et Ganon qui traversent les projectiles (https://youtu.be/kZjxFVPdlWw?t=7m5s)"
+  },
+  {  
+     "question":"Quels codes je dois mettre dans mon Faster Melee ? (ucf, no music, etc.)",
+     "answer":"Tout est préconfiguré dans les versions de FM conseillées, il n'y a rien à toucher."
+  },
+  {  
+     "question":"Est-ce que je peux jouer avec une manette XBox ou autre ?",
+     "answer":"Oui mais il faudra configurer les touches sur Faster Melee."
+  },
+  {  
+     "question":"Quel adaptateur dois-je utiliser pour ma manette GC ?",
+     "answer":"Un officiel Wii U, ou un Mayflash 4 ports (seulement la version 4 ports)."
+  },
+  {  
+     "question":"Quelle différence entre les deux ? Et avec les autres ?",
+     "answer":"Aucune entre les deux. Les autres adaptateurs ne supportent pas les contrôles gamecube nativement et ont donc du lag, + il faut les configurer sur Faster Melee alors que les deux adaptateurs recommandés fonctionnent directement."
+  },
+  {  
+     "question":"Ma manette GC n'est pas reconnue dans le jeu, pourquoi ?",
+     "answer":"https://wiki.dolphin-emu.org/index.php?title=How_to_use_the_Official_GameCube_Controller_Adapter_for_Wii_U_in_Dolphin"
+  }
+]
