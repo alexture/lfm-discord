@@ -211,6 +211,10 @@
     "value": "https://smashboards.com/threads/jigglypuff-hitbox-and-frame-data-nsf56k.303202/"
   },
   {
+    "command": "!rankingnetplay",
+    "value": "Displays the current month's netplay ranking"
+  },
+  {
     "command": "!roy",
     "value": "https://smashboards.com/threads/roy-hitboxes-and-frame-data.286427/"
   },
