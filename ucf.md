@@ -4,7 +4,7 @@
 
 ## Copier UCF
 
-###2 méthodes
+### 2 méthodes
 
 ##### Pour la première vous aurez besoin de:
 - une gamecube
