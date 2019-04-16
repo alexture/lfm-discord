@@ -17,6 +17,7 @@ Pour la première vous aurez besoin de:
 - Copiez le fichier contenant la sauvegarde UCF sur la carte mémoire ne l'ayant pas
 - Dites merci à votre pote
 
+---
 
 Si vous n'avez pas d'amis ou que vous vivez dans une région paumée (salut la diagonale du vide), vous aurez besoin de:
 - une wii avec le homebrew channel
