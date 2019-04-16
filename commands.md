@@ -12,7 +12,7 @@ Lien vers cette page
 ### !aled20xx
 https://www.reddit.com/r/smashbros/comments/7ecgaj/20xx_407_complete_cheat_sheet_with_all_shortcut/
 
-### !books
+### !books, !book, !livres, !livre
 Livres reconnus par la communauté concernant le mental en compétition: The Inner Game of Tennis, Playing to win (http://www.sirlin.net/ptw/), The Art Of Learning, The 6 pillars of self-esteem. Livre d'introduction à la méditation: http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf
 
 ### !bowser
@@ -104,6 +104,12 @@ http://lefrenchmelee.fr/discord
 ### !iso20xx
 https://www.dropbox.com/s/sy1p0g880x1a19r/20XX%20Melee.iso?dl=0
 
+### !jump, !jumpbutton
+
+Tu sautes avec le bouton que tu veux, la plupart des gens préfèrent X ou Y et trouvent ça plus précis que le stick analogique.  
+
+Quand tu veux JC grab avec Z, typiquement il n'y a aucun autre bouton de face droite (A, B, C, X, Y) sur lequel tu veux appuyer. Donc ton pouce droit est disponible. Par contre tu as toutes les chances d'avoir besoin de ton stick gauche pour te déplacer, ou faire une DI. 
+
 ### !kirby
 https://smashboards.com/threads/kirby-hitboxes-and-frame-data.322531/
 
@@ -135,7 +141,7 @@ https://smashboards.com/threads/complete-marth-hitboxes-and-frame-data.285324/
 ### !mewtwo
 https://smashboards.com/threads/mewtwo-hitboxes-and-frame-data.302477/
 
-### !movements
+### !movements, !mouvements, !mouvement
 Entraînement aux mouvements:  
 https://kirbykazemeleeblog.blogspot.fr/2014/10/diy-ssbm-movement-drills-part-12.html
 https://kirbykazemeleeblog.blogspot.fr/2014/11/diy-ssbm-movement-drills-part-22.html
@@ -143,8 +149,14 @@ https://kirbykazemeleeblog.blogspot.fr/2014/11/diy-ssbm-movement-drills-part-22.
 ### !ness
 https://smashboards.com/threads/ness-hitboxes-and-frame-data.304703/
 
-### !nordic
+### !nordic, !iso, !isos, !build, !pal
 ISO Melee Nordic
+
+### !ntsc
+ISO NTSC
+
+### !oos
+https://smashboards.com/threads/out-of-shield-options-frame-data.294336/
 
 ### !peach
 https://smashboards.com/threads/peach-hitboxes-and-frame-data-thread-remastered.425917/
@@ -166,7 +178,7 @@ C'est une version de Melee moddée pour optimiser le netplay.
 Le community build est une version NTSC modifiée pour imiter la PAL, alors que Nordic a une base PAL. Le community build a donc quelques restes de NTSC, notamment le side b de Falcon et Ganon qui traversent les projectiles (<https://youtu.be/kZjxFVPdlWw?t=7m5s>)
 
 ### !pr
-https://www.cubeforum.fr/viewtopic.php?f=2&t=2733&p=174847#p174847
+https://cdn.discordapp.com/attachments/97990296616333312/567699290894368778/50855102_1833690150093253_8241016138977247232_n.png
 
 ### !pr2017
 https://www.ssbwiki.com/French_Power_Rankings
@@ -189,6 +201,7 @@ https://smashboards.com/threads/roy-hitboxes-and-frame-data.286427/
 
 ### !ruleset
 Règles françaises recommandées et utilisées lors du tournoi netplay du jeudi:
+<http://lefrenchmelee.fr/reglement-des-tournois/>
 
 ### !samus
 https://smashboards.com/threads/samus-hitboxes-and-frame-data.320253/
@@ -199,10 +212,14 @@ Post de PPMD concernant l’entraînement solo: https://smashboards.com/threads/
 ### !sheik
 https://smashboards.com/threads/sheik-hitboxes-and-frame-data.299984/
 
+### !skinpack
+
+Skin pack link
+
 ### !slippi
 https://medium.com/project-slippi/project-public-release-4080c81d7205
 
-### !smashcords
+### !smashcords, !discord, !discords, !otherdiscords, !smashdiscord, !smashdiscords
 Liste des serveurs Discord publics pour Melee: https://smashcords.com/melee/
 
 ### !training
@@ -227,6 +244,9 @@ Base de données de vidéos: https://vods.co/melee
 
 ### !whensmelee
 http://whensmelee.com/
+
+### !wii, !wiihack, !hackwii
+https://github.com/wburgos/faq/blob/master/wii.md
 
 ### !ylink
 https://smashboards.com/threads/young-link-hitboxes-and-frame-data.301753/
