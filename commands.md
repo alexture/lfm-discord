@@ -1,27 +1,27 @@
 # Commandes bot
 
-##### !5tips
+### !5tips
 https://www.youtube.com/watch?v=NQPTlCJ02iA
 
-##### !advanced
+### !advanced
 https://www.youtube.com/watch?v=vckV2MJgBzo
 
-##### !aide, !aled, !bot, !list, !commands, !commandes
+### !aide, !aled, !bot, !list, !commands, !commandes
 Lien vers cette page
 
-##### !aled20xx
+### !aled20xx
 https://www.reddit.com/r/smashbros/comments/7ecgaj/20xx_407_complete_cheat_sheet_with_all_shortcut/
 
-##### !books
+### !books
 Livres reconnus par la communauté concernant le mental en compétition: The Inner Game of Tennis, Playing to win (http://www.sirlin.net/ptw/), The Art Of Learning, The 6 pillars of self-esteem. Livre d'introduction à la méditation: http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf
 
-##### !bowser
+### !bowser
 https://smashboards.com/threads/bowsers-hitboxes-and-frame-data-updated-20-01-11.293620/
 
-##### !bracket
+### !bracket
 Bracket du tournoi netplay du jeudi
 
-##### !buffer
+### !buffer
 Moins de 48ms: 6  
 Entre 48 et 56ms: 7  
 Entre 56 et 64ms: 8  
@@ -33,26 +33,26 @@ Entre 96 et 104ms: 13
  
  Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion.
 
-##### !dashdance
+### !dashdance
 https://gfycat.com/EachConsciousGenet
 
-##### !dk
+### !dk
 https://smashboards.com/threads/donkey-kong-hitboxes-and-frame-data.298620/
 
-##### !doc
+### !doc
 https://smashboards.com/threads/doctor-mario-hitboxes-and-frame-data.309998/
 
-##### !falco
+### !falco
 https://smashboards.com/threads/falco-hitboxes-and-frame-data.300397/
 
-##### !falcon
+### !falcon
 https://smashboards.com/threads/captain-falcon-hitboxes-and-frame-data.284165/
 
-##### !fastermelee, !fm
+### !fastermelee, !fm
 Kadano R12: https://cdn.discordapp.com/attachments/180340796707438592/413076805722046474/FM-v5.87_UCF-v0.73_R12-rc2.7z  
 v5.9 BETA Final: https://goo.gl/dpjhgB
 
-##### !fmsolo
+### !fmsolo
 Faster Melee réduit l'input lag de 3 frames par rapport à Melee sur console.  
 Pour éviter de décaler ses timings, il faut, même en solo, créer une room de netplay et utiliser les buffers suivants:  
 
@@ -66,22 +66,22 @@ Cette échelle permet d'avoir 1 buffer de décalage max par rapport à une CRT, 
 Plus d’infos ici: https://www.reddit.com/r/SSBM/comments/68q65k/how_to_maximize_your_netplay_experience/?ref=share&ref_source=link
 
 
-##### !fox
+### !fox
 https://smashboards.com/threads/complete-fox-hitboxes-and-frame-data.285177/
 
-##### !frameadvantage
+### !frameadvantage
 https://docs.google.com/spreadsheets/d/1KwdYkNVcJbJxV_Ijqi-jyrWjGcJH4lR2e2lfrDuDC0g/edit#gid=1222497360
 
-##### !framecounter
+### !framecounter
 Alternative à 20XX plus simple d’utilisation pour la feature du frame counter: https://smashboards.com/threads/frame-data-display-v1-0.454115/
 
-##### !fundamentals
+### !fundamentals
 Liste des fondamentaux de Melee: https://pastebin.com/LTMj2WbH
 
-##### !g&w
+### !g&w
 https://smashboards.com/threads/game-watch-hitboxes-and-frame-data.303618/
 
-##### !galint
+### !galint
 Grounded Actionable Ledge INTangibility: combien de frames invincibles on a au sol, en partant du bord, pendant lesquelles on peut faire ce qu'on veut.  
 Liste de galint possibles: https://smashboards.com/threads/kadanos-perfect-marth-class-advanced-frame-data-application.337035/page-20#post-16761069  
 OL = Ledgedash optimal possible humainement  
@@ -89,150 +89,150 @@ PL = Lededash TAS
 NL = No-impact landing  
 AI = Aerial Interrupt  
 
-##### !ganon
+### !ganon
 https://smashboards.com/threads/ganondorf-hitboxes-and-frame-data.303443/
 
-##### !ics
+### !ics
 https://smashboards.com/threads/complete-ice-climbers-hitboxes-and-frame-data.285394/
 
-##### !ikd
+### !ikd
 Calculateur permettant de simuler n’importe quel coup et de jouer avec les DI pour voir le résultat: http://ikneedata.com/
 
-##### !invite
+### !invite
 http://lefrenchmelee.fr/discord
 
-##### !iso20xx
+### !iso20xx
 https://www.dropbox.com/s/sy1p0g880x1a19r/20XX%20Melee.iso?dl=0
 
-##### !kirby
+### !kirby
 https://smashboards.com/threads/kirby-hitboxes-and-frame-data.322531/
 
-##### !latence
+### !latence
 Pour voir votre latence avec le serveur de netplay, ouvrez une invite de commande sur Windows et tapez: `ping stun.dolphin-emu.org -t`
 
-##### !lexique
+### !lexique
 Guide des termes fréquemment utilisés sur Melee: https://docs.google.com/document/d/1sR17pFJdgFoM4EqbEygoLkMk7kT63FTQvR4YCSd7j0w/pub
 
-##### !library
+### !library
 Une collection immense de textes et vidéos sur Melee: http://www.meleelibrary.com/
 
-##### !link
+### !link
 https://smashboards.com/threads/link-hitboxes-and-frame-data.306010/
 
-##### !luigi
+### !luigi
 https://smashboards.com/threads/luigi-hitboxes-and-frame-data.306546/
 
-##### !main
+### !main
 Playlist de la chaîne SSBM Tutorials pour aider à choisir son personnage principal:  
 <https://www.youtube.com/watch?v=7GZ9rE9F7ZA&list=PLoU3TQBakHOq6EHo-Hs35bOlTRQnp5q6p>
 
-##### !mario
+### !mario
 https://smashboards.com/threads/mario-hitboxes-and-frame-data.312343/
 
-##### !marth
+### !marth
 https://smashboards.com/threads/complete-marth-hitboxes-and-frame-data.285324/
 
-##### !mewtwo
+### !mewtwo
 https://smashboards.com/threads/mewtwo-hitboxes-and-frame-data.302477/
 
-##### !movements
+### !movements
 Entraînement aux mouvements:  
 https://kirbykazemeleeblog.blogspot.fr/2014/10/diy-ssbm-movement-drills-part-12.html
 https://kirbykazemeleeblog.blogspot.fr/2014/11/diy-ssbm-movement-drills-part-22.html
 
-##### !ness
+### !ness
 https://smashboards.com/threads/ness-hitboxes-and-frame-data.304703/
 
-##### !nordic
+### !nordic
 ISO Melee Nordic
 
-##### !peach
+### !peach
 https://smashboards.com/threads/peach-hitboxes-and-frame-data-thread-remastered.425917/
 
-##### !perfectmarth
+### !perfectmarth
 Post de Kadano extrêmement détaillé sur Marth: https://smashboards.com/threads/kadanos-perfect-marth-class-advanced-frame-data-application.337035/
 
-##### !pichu
+### !pichu
 https://smashboards.com/threads/pichus-hitboxes-and-frame-data-updated-27-02-11.298367/
 
-##### !pikachu
+### !pikachu
 https://smashboards.com/threads/pikachu-hitboxes-and-frame-data.320088/
 
-##### !pknordic
+### !pknordic
 **C'est quoi l'ISO Nordic ?**  
 C'est une version de Melee moddée pour optimiser le netplay.  
 
 **Pourquoi pas PAL community build ?**  
 Le community build est une version NTSC modifiée pour imiter la PAL, alors que Nordic a une base PAL. Le community build a donc quelques restes de NTSC, notamment le side b de Falcon et Ganon qui traversent les projectiles (<https://youtu.be/kZjxFVPdlWw?t=7m5s>)
 
-##### !pr
+### !pr
 https://www.cubeforum.fr/viewtopic.php?f=2&t=2733&p=174847#p174847
 
-##### !pr2017
+### !pr2017
 https://www.ssbwiki.com/French_Power_Rankings
 
-##### !progress
+### !progress
 Combien d'heures par semaine joues-tu sérieusement ?  
 Combien de persos joues-tu ?  
 Est-ce que tu analyses tes propres vidéos ?  
 Si oui, quelle a été ton erreur la plus fréquente sur la dernière vidéo ? (spécifiquement, pas de "neutral game" ou "positionnement")  
 Qu'est ce que tu as fait pour améliorer ça ?  
 
-##### !puff
+### !puff
 https://smashboards.com/threads/jigglypuff-hitbox-and-frame-data-nsf56k.303202/
 
-##### !rankingnetplay
+### !rankingnetplay
 Displays the current month's netplay ranking
 
-##### !roy
+### !roy
 https://smashboards.com/threads/roy-hitboxes-and-frame-data.286427/
 
-##### !ruleset
+### !ruleset
 Règles françaises recommandées et utilisées lors du tournoi netplay du jeudi:
 
-##### !samus
+### !samus
 https://smashboards.com/threads/samus-hitboxes-and-frame-data.320253/
 
-##### !shadowboxing
+### !shadowboxing
 Post de PPMD concernant l’entraînement solo: https://smashboards.com/threads/falco-discussion-thread.256826/page-439#post-14739329
 
-##### !sheik
+### !sheik
 https://smashboards.com/threads/sheik-hitboxes-and-frame-data.299984/
 
-##### !slippi
+### !slippi
 https://medium.com/project-slippi/project-public-release-4080c81d7205
 
-##### !smashcords
+### !smashcords
 Liste des serveurs Discord publics pour Melee: https://smashcords.com/melee/
 
-##### !training
+### !training
 Comment utiliser les features de savestates et replay sur 20XX: https://www.reddit.com/r/SSBM/comments/6gkgol/406_20xx_save_states_explained_text_form/
 
-##### !tutos
+### !tutos
 Chaine de SSBM Tutorials, contenant de nombreux tutos pour apprendre le jeu: <https://www.youtube.com/channel/UC46ZTid4t2ctB6osM0WTiJA>
 
-##### !twitch
+### !twitch
 https://www.twitch.tv/directory/game/Super%20Smash%20Bros.%20Melee
 
-##### !ucf
+### !ucf
 Ce que c'est: <https://youtu.be/g9psb_ew1w0>
 Comment l'obtenir: <https://github.com/wburgos/faq/blob/master/ucf.md>
 
-##### !unclepunch
+### !unclepunch
 ISO d'entrainement sous forme d'events:  
 https://smashboards.com/threads/training-mode-v1-1-updated-1-11-19.456449/
 
-##### !vods
+### !vods
 Base de données de vidéos: https://vods.co/melee
 
-##### !whensmelee
+### !whensmelee
 http://whensmelee.com/
 
-##### !ylink
+### !ylink
 https://smashboards.com/threads/young-link-hitboxes-and-frame-data.301753/
 
-##### !yoshi
+### !yoshi
 https://smashboards.com/threads/yoshi-hitboxes-and-frame-data.317467/
 
-##### !zelda
+### !zelda
 https://smashboards.com/threads/zelda-hitboxes-and-frame-data.319598/
