@@ -149,6 +149,9 @@ https://kirbykazemeleeblog.blogspot.fr/2014/11/diy-ssbm-movement-drills-part-22.
 ### !ness
 https://smashboards.com/threads/ness-hitboxes-and-frame-data.304703/
 
+### !netplay
+https://github.com/wburgos/faq/blob/master/faq-netplay.md
+
 ### !nordic, !iso, !isos, !build, !pal
 ISO Melee Nordic
 
