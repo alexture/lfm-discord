@@ -150,7 +150,7 @@ https://kirbykazemeleeblog.blogspot.fr/2014/11/diy-ssbm-movement-drills-part-22.
 https://smashboards.com/threads/ness-hitboxes-and-frame-data.304703/
 
 ### !netplay
-https://github.com/wburgos/faq/blob/master/faq-netplay.md
+https://github.com/wburgos/lfm-discord/blob/master/faq-netplay.md
 
 ### !nordic, !iso, !isos, !build, !pal
 ISO Melee Nordic
@@ -236,7 +236,7 @@ https://www.twitch.tv/directory/game/Super%20Smash%20Bros.%20Melee
 
 ### !ucf
 Ce que c'est: <https://youtu.be/g9psb_ew1w0>  
-Comment l'obtenir: <https://github.com/wburgos/faq/blob/master/ucf.md>
+Comment l'obtenir: <https://github.com/wburgos/lfm-discord/blob/master/ucf.md>
 
 ### !unclepunch
 ISO d'entrainement sous forme d'events:  
@@ -249,7 +249,7 @@ Base de données de vidéos: https://vods.co/melee
 http://whensmelee.com/
 
 ### !wii, !wiihack, !hackwii
-https://github.com/wburgos/faq/blob/master/wii.md
+https://github.com/wburgos/lfm-discord/blob/master/wii.md
 
 ### !ylink
 https://smashboards.com/threads/young-link-hitboxes-and-frame-data.301753/
