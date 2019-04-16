@@ -22,14 +22,14 @@ https://smashboards.com/threads/bowsers-hitboxes-and-frame-data-updated-20-01-11
 Bracket du tournoi netplay du jeudi
 
 ##### !buffer
-Moins de 48ms: 6
-Entre 48 et 56ms: 7
-Entre 56 et 64ms: 8
-Entre 64 et 72ms: 9
- Entre 72 et 80ms: 10
- Entre 80 et 88ms: 11
- Entre 88 et 96ms: 12
- Entre 96 et 104ms: 13
+Moins de 48ms: 6  
+Entre 48 et 56ms: 7  
+Entre 56 et 64ms: 8  
+Entre 64 et 72ms: 9  
+Entre 72 et 80ms: 10  
+Entre 80 et 88ms: 11  
+Entre 88 et 96ms: 12  
+Entre 96 et 104ms: 13  
  
  Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion.
 
@@ -49,11 +49,22 @@ https://smashboards.com/threads/falco-hitboxes-and-frame-data.300397/
 https://smashboards.com/threads/captain-falcon-hitboxes-and-frame-data.284165/
 
 ##### !fastermelee, !fm
-Kadano R12: https://cdn.discordapp.com/attachments/180340796707438592/413076805722046474/FM-v5.87_UCF-v0.73_R12-rc2.7z
+Kadano R12: https://cdn.discordapp.com/attachments/180340796707438592/413076805722046474/FM-v5.87_UCF-v0.73_R12-rc2.7z  
 v5.9 BETA Final: https://goo.gl/dpjhgB
 
 ##### !fmsolo
-Faster Melee réduit l'input lag de 3 frames par rapport à Melee sur console. Pour éviter de décaler ses timings, il faut, même en solo, créer une room de netplay et utiliser les buffers suivants : Écrans 144Hz avec peu de lag: buffer 8 Écrans 60Hz avec peu de lag (en général BenQ, Asus, Acer): buffer 6 Autres écrans 60Hz (en général HP, Dell, etc): buffer 4 Majorité des PC Portables, hors PC gaming: buffer 4 Les setups de jeu étant tous différents, et les mesures de lag peu précises pour chaque setup, cette échelle permet d'avoir au maximum 1 buffer de décalage seulement par rapport à un équivalent CRT. Testez tout de même différents buffers pour voir ce qui vous semble le plus proche de la réalité pour votre setup. Plus d'infos ici : https://www.reddit.com/r/SSBM/comments/68q65k/how_to_maximize_your_netplay_experience/?ref=share&ref_source=link
+Faster Melee réduit l'input lag de 3 frames par rapport à Melee sur console.  
+Pour éviter de décaler ses timings, il faut, même en solo, créer une room de netplay et utiliser les buffers suivants:  
+
+Écrans 144Hz avec peu de lag: buffer 8  
+Écrans 60Hz avec peu de lag (en général BenQ, Asus, Acer): buffer 6  
+Autres écrans 60Hz (en général HP, Dell, etc): buffer 4  
+Majorité des PC Portables, hors PC gaming: buffer 4  
+
+Cette échelle permet d'avoir 1 buffer de décalage max par rapport à une CRT, mais ce n'est pas parfait. Testez donc quand même -1 ou +1 buffer et prenez ce qui semble le plus proche de la réalité.  
+
+Plus d’infos ici: https://www.reddit.com/r/SSBM/comments/68q65k/how_to_maximize_your_netplay_experience/?ref=share&ref_source=link
+
 
 ##### !fox
 https://smashboards.com/threads/complete-fox-hitboxes-and-frame-data.285177/
@@ -62,21 +73,21 @@ https://smashboards.com/threads/complete-fox-hitboxes-and-frame-data.285177/
 https://docs.google.com/spreadsheets/d/1KwdYkNVcJbJxV_Ijqi-jyrWjGcJH4lR2e2lfrDuDC0g/edit#gid=1222497360
 
 ##### !framecounter
-Alternative à 20XX plus simple d’utilisation pour la feature du frame counter. https://smashboards.com/threads/frame-data-display-v1-0.454115/
+Alternative à 20XX plus simple d’utilisation pour la feature du frame counter: https://smashboards.com/threads/frame-data-display-v1-0.454115/
 
 ##### !fundamentals
-Liste des fondamentaux de Melee : https://pastebin.com/LTMj2WbH
+Liste des fondamentaux de Melee: https://pastebin.com/LTMj2WbH
 
 ##### !g&w
 https://smashboards.com/threads/game-watch-hitboxes-and-frame-data.303618/
 
 ##### !galint
-Grounded Actionable Ledge INTangibility: combien de frames invincibles on a au sol, en partant du bord, pendant lesquelles on peut faire ce qu'on veut.
-Liste de galint possibles: https://smashboards.com/threads/kadanos-perfect-marth-class-advanced-frame-data-application.337035/page-20#post-16761069
-OL = Ledgedash optimal possible humainement
-PL = Lededash TAS
-NL = No-impact landing
-AI = Aerial Interrupt
+Grounded Actionable Ledge INTangibility: combien de frames invincibles on a au sol, en partant du bord, pendant lesquelles on peut faire ce qu'on veut.  
+Liste de galint possibles: https://smashboards.com/threads/kadanos-perfect-marth-class-advanced-frame-data-application.337035/page-20#post-16761069  
+OL = Ledgedash optimal possible humainement  
+PL = Lededash TAS  
+NL = No-impact landing  
+AI = Aerial Interrupt  
 
 ##### !ganon
 https://smashboards.com/threads/ganondorf-hitboxes-and-frame-data.303443/
@@ -112,7 +123,7 @@ https://smashboards.com/threads/link-hitboxes-and-frame-data.306010/
 https://smashboards.com/threads/luigi-hitboxes-and-frame-data.306546/
 
 ##### !main
-Playlist de la chaîne SSBM Tutorials pour aider à choisir son personnage principal:
+Playlist de la chaîne SSBM Tutorials pour aider à choisir son personnage principal:  
 <https://www.youtube.com/watch?v=7GZ9rE9F7ZA&list=PLoU3TQBakHOq6EHo-Hs35bOlTRQnp5q6p>
 
 ##### !mario
@@ -125,7 +136,8 @@ https://smashboards.com/threads/complete-marth-hitboxes-and-frame-data.285324/
 https://smashboards.com/threads/mewtwo-hitboxes-and-frame-data.302477/
 
 ##### !movements
-Entraînement aux mouvements: https://kirbykazemeleeblog.blogspot.fr/2014/10/diy-ssbm-movement-drills-part-12.html
+Entraînement aux mouvements:  
+https://kirbykazemeleeblog.blogspot.fr/2014/10/diy-ssbm-movement-drills-part-12.html
 https://kirbykazemeleeblog.blogspot.fr/2014/11/diy-ssbm-movement-drills-part-22.html
 
 ##### !ness
@@ -147,10 +159,10 @@ https://smashboards.com/threads/pichus-hitboxes-and-frame-data-updated-27-02-11.
 https://smashboards.com/threads/pikachu-hitboxes-and-frame-data.320088/
 
 ##### !pknordic
-**C'est quoi l'ISO Nordic ?**
-C'est une version de Melee moddée pour optimiser le netplay.
+**C'est quoi l'ISO Nordic ?**  
+C'est une version de Melee moddée pour optimiser le netplay.  
 
-**Pourquoi pas PAL community build ?**
+**Pourquoi pas PAL community build ?**  
 Le community build est une version NTSC modifiée pour imiter la PAL, alors que Nordic a une base PAL. Le community build a donc quelques restes de NTSC, notamment le side b de Falcon et Ganon qui traversent les projectiles (<https://youtu.be/kZjxFVPdlWw?t=7m5s>)
 
 ##### !pr
@@ -160,11 +172,11 @@ https://www.cubeforum.fr/viewtopic.php?f=2&t=2733&p=174847#p174847
 https://www.ssbwiki.com/French_Power_Rankings
 
 ##### !progress
-Combien d'heures par semaine joues-tu sérieusement ?
-Combien de persos joues-tu ?
-Est-ce que tu analyses tes propres vidéos ?
-Si oui, quelle a été ton erreur la plus fréquente sur la dernière vidéo ? (spécifiquement, pas de "neutral game" ou "positionnement")
-Qu'est ce que tu as fait pour améliorer ça ?
+Combien d'heures par semaine joues-tu sérieusement ?  
+Combien de persos joues-tu ?  
+Est-ce que tu analyses tes propres vidéos ?  
+Si oui, quelle a été ton erreur la plus fréquente sur la dernière vidéo ? (spécifiquement, pas de "neutral game" ou "positionnement")  
+Qu'est ce que tu as fait pour améliorer ça ?  
 
 ##### !puff
 https://smashboards.com/threads/jigglypuff-hitbox-and-frame-data-nsf56k.303202/
@@ -191,7 +203,7 @@ https://smashboards.com/threads/sheik-hitboxes-and-frame-data.299984/
 https://medium.com/project-slippi/project-public-release-4080c81d7205
 
 ##### !smashcords
-Liste des serveurs Discord publics pour Melee : https://smashcords.com/melee/
+Liste des serveurs Discord publics pour Melee: https://smashcords.com/melee/
 
 ##### !training
 Comment utiliser les features de savestates et replay sur 20XX: https://www.reddit.com/r/SSBM/comments/6gkgol/406_20xx_save_states_explained_text_form/
@@ -207,7 +219,7 @@ Ce que c'est: <https://youtu.be/g9psb_ew1w0>
 Comment l'obtenir: <https://github.com/wburgos/faq/blob/master/ucf.md>
 
 ##### !unclepunch
-ISO d'entrainement sous forme d'events: 
+ISO d'entrainement sous forme d'events:  
 https://smashboards.com/threads/training-mode-v1-1-updated-1-11-19.456449/
 
 ##### !vods
