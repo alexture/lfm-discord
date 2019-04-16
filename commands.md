@@ -235,7 +235,7 @@ Chaine de SSBM Tutorials, contenant de nombreux tutos pour apprendre le jeu: <ht
 https://www.twitch.tv/directory/game/Super%20Smash%20Bros.%20Melee
 
 ### !ucf
-Ce que c'est: <https://youtu.be/g9psb_ew1w0>
+Ce que c'est: <https://youtu.be/g9psb_ew1w0>  
 Comment l'obtenir: <https://github.com/wburgos/faq/blob/master/ucf.md>
 
 ### !unclepunch
