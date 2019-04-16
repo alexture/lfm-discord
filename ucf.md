@@ -1,8 +1,8 @@
-Tuto mettre UCF sur une carte mémoire et l'utiliser
-Par Solo
+# Tuto mettre UCF sur une carte mémoire et l'utiliser
+###### Par Solo
 
 
-1 - Copier UCF
+## Copier UCF
 
 2 méthodes
 
@@ -40,7 +40,7 @@ Si vous n'avez pas d'amis ou que vous vivez dans une région paumée (salut la d
 - Une fois la copie effectuée, appuyez sur A pour sortir du menu "Restore", puis sur START pour retourner au Homebrew Channel
 
 
-2 - Utiliser UCF
+## Utiliser UCF
 
 - Lancez SSBM avec la carte mémoire UCF dans le slot A
 - Dans le menu principal, choisissez VS. Mode
