@@ -55,5 +55,5 @@ Si c'est la première fois que vous faites ceci, on vous demande de créer une s
 Vous pouvez maintenant retirer la carte mémoire. La prochaine fois que vous mettrez UCF sur un setup vous n'aurez pas à retirer tous les stages non légaux.
 La vibration, le ratio bruitage / musique et la langue sélectionnée seront aussi conservés.
 
-#FIN
+# FIN
 abonnez vous
