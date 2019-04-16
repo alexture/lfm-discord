@@ -144,7 +144,7 @@ https://kirbykazemeleeblog.blogspot.fr/2014/11/diy-ssbm-movement-drills-part-22.
 https://smashboards.com/threads/ness-hitboxes-and-frame-data.304703/
 
 ##### !nordic
-ISO Melee Nordic: https://mega.nz/#!1BMH3a7J!p7ox1CFAUYkbIoLPaIBptEYwEMF_HGzP3NNDOPPq1SQ
+ISO Melee Nordic
 
 ##### !peach
 https://smashboards.com/threads/peach-hitboxes-and-frame-data-thread-remastered.425917/
