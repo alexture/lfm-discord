@@ -7,7 +7,7 @@ Faster Melee R12 ou 5.9.
 ISO Nordic.
 
 ### Où est-ce que je les trouve ?
-Ils sont épinglés dans le channel #netplay. Les commandes !r12 et !latestfm sont également disponibles pour retrouver le lien rapidement.
+Les commandes !fm et !nordic sont disponibles pour retrouver le lien rapidement. Ils sont également épinglés dans le channel #netplay. 
 
 ### C'est quoi l'ISO Nordic ?
 C'est une version de Melee moddée pour optimiser le netplay.
