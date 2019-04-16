@@ -4,9 +4,9 @@
 
 ## Copier UCF
 
-2 méthodes
+###2 méthodes
 
-Pour la première vous aurez besoin de:
+##### Pour la première vous aurez besoin de:
 - une gamecube
 - une carte mémoire sans UCF
 - un pote avec une carte mémoire contenant UCF
@@ -18,9 +18,7 @@ Pour la première vous aurez besoin de:
 - Dites merci à votre pote
 
 
-
-
-Si vous n'avez pas d'amis ou que vous vivez dans une région paumée (salut la diagonale du vide), vous aurez besoin de:
+##### Si vous n'avez pas d'amis ou que vous vivez dans une région paumée (salut la diagonale du vide), vous aurez besoin de:
 - une wii avec le homebrew channel
 - une carte SD
 - une carte mémoire sans UCF
@@ -57,5 +55,5 @@ Si c'est la première fois que vous faites ceci, on vous demande de créer une s
 Vous pouvez maintenant retirer la carte mémoire. La prochaine fois que vous mettrez UCF sur un setup vous n'aurez pas à retirer tous les stages non légaux.
 La vibration, le ratio bruitage / musique et la langue sélectionnée seront aussi conservés.
 
-FIN
+#FIN
 abonnez vous
