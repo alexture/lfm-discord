@@ -31,7 +31,11 @@ Entre 80 et 88ms: 11
 Entre 88 et 96ms: 12  
 Entre 96 et 104ms: 13  
  
- Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion.
+Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion.
+
+### !commu, !commus, !communaute, !communautes
+Communautés françaises de Super Smash Bros. Melee:
+https://docs.google.com/spreadsheets/d/1OCrgoCZfgbHgTl2ce59t9a_xvbj0cR8PcEo7rno_F2E/edit#gid=0
 
 ### !dashdance
 https://gfycat.com/EachConsciousGenet
@@ -78,7 +82,7 @@ Alternative à 20XX plus simple d’utilisation pour la feature du frame counter
 ### !fundamentals
 Liste des fondamentaux de Melee: https://pastebin.com/LTMj2WbH
 
-### !g&w
+### !gw, !gameandwatch, !gaw, !g&w
 https://smashboards.com/threads/game-watch-hitboxes-and-frame-data.303618/
 
 ### !galint
