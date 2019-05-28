@@ -1,7 +1,7 @@
 # Commandes bot
 
 ### !5tips
-https://www.youtube.com/watch?v=NQPTlCJ02iA
+5 conseils d'Armada pour bien débuter sur le jeu: https://www.youtube.com/watch?v=NQPTlCJ02iA
 
 ### !advanced
 https://www.youtube.com/watch?v=vckV2MJgBzo
@@ -44,6 +44,13 @@ https://gfycat.com/EachConsciousGenet
 https://smashboards.com/threads/donkey-kong-hitboxes-and-frame-data.298620/
 
 ### !doc
+Dr. Mario frame data: <https://smashboards.com/threads/doctor-mario-hitboxes-and-frame-data.309998/>
+Smash documentary: <https://www.youtube.com/watch?v=NSf2mgkRm7Q&list=PLoUHkRwnRH-IXbZfwlgiEN8eXmoj6DtKM>
+
+### !documentaire, !documentary, !smashdoc
+https://www.youtube.com/watch?v=NSf2mgkRm7Q&list=PLoUHkRwnRH-IXbZfwlgiEN8eXmoj6DtKM	
+
+### !drmario
 https://smashboards.com/threads/doctor-mario-hitboxes-and-frame-data.309998/
 
 ### !falco
