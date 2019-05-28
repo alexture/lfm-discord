@@ -224,7 +224,15 @@ https://smashboards.com/threads/sheik-hitboxes-and-frame-data.299984/
 Skin pack link
 
 ### !slippi
-https://medium.com/project-slippi/project-public-release-4080c81d7205
+Project Slippi est une version modifiée de FM 5.9 qui permet d’enregistrer des replays de vos matchs de Melee, avec des stats détaillés liées à des fichiers .slp. Il est également livré avec un programme facile à utiliser pour visualiser les replays en question et accéder aux statistiques stockées. 
+
+Rappel: comme toute autre version FM, vous et votre adversaire devez utiliser la même version de Slippi.
+
+Il est destiné à être utilisé en Singles. Les replays seront toujours enregistrées en double, mais aucune statistique ne sera enregistrée.
+
+**Cela ne fonctionne que pour la version NTSC 1.02**
+
+https://slippi.gg/downloads
 
 ### !smashcords, !discord, !discords, !otherdiscords, !smashdiscord, !smashdiscords
 Liste des serveurs Discord publics pour Melee: https://smashcords.com/melee/
