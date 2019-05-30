@@ -245,6 +245,9 @@ https://slippi.gg/downloads
 ### !smashcords, !discord, !discords, !otherdiscords, !smashdiscord, !smashdiscords
 Liste des serveurs Discord publics pour Melee: https://smashcords.com/melee/
 
+### !tournoi, !premiertournoi
+https://shieldbreakfast.com/conseils-pour-les-joueurs/premier-tournoi
+
 ### !training
 Comment utiliser les features de savestates et replay sur 20XX: https://www.reddit.com/r/SSBM/comments/6gkgol/406_20xx_save_states_explained_text_form/
 
