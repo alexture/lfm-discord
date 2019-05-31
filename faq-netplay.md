@@ -10,7 +10,10 @@ v5.9 BETA Final: https://goo.gl/dpjhgB
 
 Slippi (dernière version, télécharger le Netplay Dolphin Build): https://slippi.gg/downloads
 
-### Et quelle version de Melee ?
+Sachez qu'il existe également un launcher qui vous permet d'avoir toutes les versions de Faster Melee à portée de main, qui vous permet de créer et rejoindre des salles de netplay en un clic, et qui est lié à Smash Ladder pour augmenter encore le confort d'utilisation lors du grind :)
+Suivez le guide: https://www.smashladder.com/blogs/view/26zt/2017-03-21/smash-ladder-desktop-dolphin-launcher
+
+### Quelle version de Melee est utilisée ?
 NTSC 1.02
 
 ### Où est-ce que je trouve l'ISO ?
