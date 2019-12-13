@@ -31,7 +31,7 @@ Entre 80 et 88ms: 11
 Entre 88 et 96ms: 12  
 Entre 96 et 104ms: 13  
  
-Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion.
+Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion. 
 
 ### !calendrier
 https://lefrenchmelee.fr/calendrier-des-tournois/
