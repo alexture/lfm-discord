@@ -33,6 +33,9 @@ Entre 96 et 104ms: 13
  
 Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion.
 
+### !calendrier
+https://lefrenchmelee.fr/calendrier-des-tournois/
+
 ### !commu, !commus, !communaute, !communautes
 Communautés françaises de Super Smash Bros. Melee:
 https://docs.google.com/spreadsheets/d/1OCrgoCZfgbHgTl2ce59t9a_xvbj0cR8PcEo7rno_F2E/edit#gid=0
