@@ -36,9 +36,12 @@ Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une r�
 ### !calendrier
 https://lefrenchmelee.fr/calendrier-des-tournois/
 
+### !cdc, !codedeconduite, !coc
+Code de conduite (traduction française) : https://lefrenchmelee.fr/code-de-conduite/
+
 ### !commu, !commus, !communaute, !communautes
 Communautés françaises de Super Smash Bros. Melee:
-https://docs.google.com/spreadsheets/d/1OCrgoCZfgbHgTl2ce59t9a_xvbj0cR8PcEo7rno_F2E/edit#gid=0
+https://lefrenchmelee.fr/carte-des-joueurs/
 
 ### !dashdance
 https://gfycat.com/EachConsciousGenet
@@ -113,7 +116,7 @@ https://smashboards.com/threads/complete-ice-climbers-hitboxes-and-frame-data.28
 ### !ikd
 Calculateur permettant de simuler n’importe quel coup et de jouer avec les DI pour voir le résultat: http://ikneedata.com/
 
-### !invite
+### !invite, !invitation
 http://lefrenchmelee.fr/discord
 
 ### !iso20xx
