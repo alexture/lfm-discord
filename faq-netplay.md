@@ -11,6 +11,20 @@ Suivez le guide: https://www.smashladder.com/blogs/view/26zt/2017-03-21/smash-la
 
 En plus de l'émulateur, vous aurez besoin de l'ISO du jeu. Depuis 2019, l'Europe joue en NTSC (version japonaise/américaine). Tapez la commande !iso dans le Discord LFM pour trouver un lien de téléchargement à jour. 
 
+# Solo Practice sur Faster Melee
+
+Faster Melee réduit l'input lag de 3 frames par rapport à Melee sur console.
+Pour éviter de décaler ses timings, il faut, même en solo, créer une room de netplay et utiliser les buffers suivants :
+
+* Écrans 144Hz avec peu de lag: buffer 8
+* Écrans 60Hz avec peu de lag (en général BenQ, Asus, Acer): buffer 6
+* Autres écrans 60Hz (en général HP, Dell, etc): buffer 4
+* Majorité des PC Portables, hors PC gaming: buffer 4
+
+Cette échelle permet d'avoir 1 buffer de décalage max par rapport à une CRT, mais ce n'est pas parfait. Testez donc quand même -1 ou +1 buffer et prenez ce qui semble le plus proche de la réalité.
+
+Plus d’infos ici : https://www.reddit.com/r/SSBM/comments/68q65k/how_to_maximize_your_netplay_experience/?ref=share&ref_source=link
+
 # FAQ Netplay
 
 ## Pourquoi on joue en NTSC et pas en PAL (version européenne) ?
