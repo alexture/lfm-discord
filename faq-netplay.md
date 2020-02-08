@@ -54,7 +54,7 @@ Tout est préconfiguré dans les versions de FM conseillées, il ne faut rien to
 
 ## Quel adaptateur dois-je utiliser pour ma manette GC ?
 Tu as le choix entre deux adaptateurs :
-* L'officiel : https://www.amazon.fr/Nintendo-GameCube-Controller-Adapter-Ultimate/dp/B07DQWN8Y8/ref=sr_1_7
+* L'officiel (Switch ou Wii U) : https://www.amazon.fr/Nintendo-GameCube-Controller-Adapter-Ultimate/dp/B07DQWN8Y8/ref=sr_1_7
 * Le Mayflash 4 ports : https://www.amazon.fr/Adaptateur-Manette-Gamecube-pour-Wii/dp/B00RSXRLUE/ref=sr_1_3
 
 Tous les autres adaptateurs, y compris le Mayflash 2 ports, sont <b>dangereux</b> pour ta manette. Ils peuvent avoir du lag, ce qui pose problème mais n'est pas très grave, mais ils peuvent surtout arracher son port et dans ce cas, elle sera complètement inutilisable !
