@@ -11,7 +11,7 @@ Suivez le guide: https://www.smashladder.com/blogs/view/26zt/2017-03-21/smash-la
 
 En plus de l'émulateur, vous aurez besoin de l'ISO du jeu. Depuis 2019, l'Europe joue en NTSC (version japonaise/américaine). Tapez la commande !iso dans le Discord LFM pour trouver un lien de téléchargement à jour. 
 
-# Solo Practice sur Faster Melee
+# Buffer
 
 Faster Melee réduit l'input lag de 3 frames par rapport à Melee sur console.
 Pour éviter de décaler ses timings, il faut, même en solo, créer une room de netplay et utiliser les buffers suivants :
@@ -25,7 +25,18 @@ Cette échelle permet d'avoir 1 buffer de décalage max par rapport à une CRT, 
 
 Plus d’infos ici : https://www.reddit.com/r/SSBM/comments/68q65k/how_to_maximize_your_netplay_experience/?ref=share&ref_source=link
 
-# FAQ Netplay
+Pour jouer avec d'autres personnes, utilisez le ping :
+Moins de 48ms: 6
+Entre 48 et 56ms: 7
+Entre 56 et 64ms: 8
+Entre 64 et 72ms: 9
+Entre 72 et 80ms: 10
+Entre 80 et 88ms: 11
+Entre 88 et 96ms: 12
+Entre 96 et 104ms: 13
+Plus que ça et le netplay sera compliqué pour votre connexion. Ceci est une règle générale, partez de là puis testez différents buffers pour trouver ce qui convient le mieux pour votre PC/Écran/Connexion.
+
+# FAQ Netplay débutants
 
 ## Pourquoi on joue en NTSC et pas en PAL (version européenne) ?
 L'Europe a décidé de passer en NTSC pour uniformiser le jeu à l'échelle mondiale, cela permet aux joueurs moyens d'avoir des guides qui s'appliquent à la version auquelle ils jouent, et cela permet également à nos top players d'avoir un entraînement adapté avant de partir faire des tournois aux US.
@@ -39,6 +50,8 @@ Tout est préconfiguré dans les versions de FM conseillées, il ne faut rien to
 Un officiel Wii U, ou un Mayflash 4 ports (seulement la version 4 ports !).
 
 L'explication : https://github.com/exilexi/lfm-discord/blob/master/adaptateur.md
+
+# Bugs et réglages
 
 ## Ma manette GC n'est pas reconnue dans le jeu, pourquoi ?
 https://wiki.dolphin-emu.org/index.php?title=How_to_use_the_Official_GameCube_Controller_Adapter_for_Wii_U_in_Dolphin
