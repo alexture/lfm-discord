@@ -42,3 +42,7 @@ L'explication : https://github.com/exilexi/lfm-discord/blob/master/adaptateur.md
 
 ## Ma manette GC n'est pas reconnue dans le jeu, pourquoi ?
 https://wiki.dolphin-emu.org/index.php?title=How_to_use_the_Official_GameCube_Controller_Adapter_for_Wii_U_in_Dolphin
+
+## Quelle est ma latence ?
+Pour voir votre latence avec le serveur de netplay, ouvrez une invite de commande sur Windows et tapez:
+```ping stun.dolphin-emu.org -t```
