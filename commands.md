@@ -31,9 +31,6 @@ Liste des serveurs Discord publics pour Melee: https://smashcords.com/melee/
 ### !vods
 Base de données de vidéos: https://vods.co/melee
 
-### !whensmelee
-http://whensmelee.com/
-
 
 ## Ressources et tutoriels
 
