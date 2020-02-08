@@ -6,10 +6,16 @@ Il faut jouer avec la même version que l'adversaire pour pouvoir host ou se con
 * Faster Melee v5.9 : https://goo.gl/dpjhgB
 * Slippi : https://slippi.gg/downloads
 
+Project Slippi est une version modifiée de FM 5.9 qui permet d’enregistrer des replays de vos matchs de Melee, avec des stats détaillés liées à des fichiers .slp. Il est également livré avec un programme facile à utiliser pour visualiser les replays en question et accéder aux statistiques stockées. 
+
 Sachez qu'il existe également un launcher qui vous permet de créer et rejoindre des salles de netplay en un clic, et qui est lié à Smash Ladder pour augmenter encore le confort d'utilisation lors du grind :)
 Suivez le guide: https://www.smashladder.com/blogs/view/26zt/2017-03-21/smash-ladder-desktop-dolphin-launcher
 
 En plus de l'émulateur, vous aurez besoin de l'ISO du jeu. Depuis 2019, l'Europe joue en NTSC (version japonaise/américaine). Tapez la commande !iso dans le Discord LFM pour trouver un lien de téléchargement à jour. 
+
+Il faudra aussi paramétrer la manette pour qu'elle soit reconnue par le jeu :
+* Si tu as l'adaptateur Mayflash : mets-le bien en mode Wii U, pas en mode PC.
+* Installe les drivers de l'adaptateur, <a href="https://dolphin-emu.org/docs/guides/how-use-official-gc-controller-adapter-wii-u/">les instructions sont là</a>. C'est pareil pour le Mayflash et pour l'adaptateur officiel.
 
 # Buffer
 
@@ -47,9 +53,15 @@ Un article plus détaillé sur la question : https://pugilatdesetoiles.com/2019/
 Tout est préconfiguré dans les versions de FM conseillées, il ne faut rien toucher.
 
 ## Quel adaptateur dois-je utiliser pour ma manette GC ?
-Un officiel Wii U, ou un Mayflash 4 ports (seulement la version 4 ports !).
+Tu as le choix entre deux adaptateurs :
+* L'officiel : https://www.amazon.fr/Nintendo-GameCube-Controller-Adapter-Ultimate/dp/B07DQWN8Y8/ref=sr_1_7
+* Le Mayflash 4 ports : https://www.amazon.fr/Adaptateur-Manette-Gamecube-pour-Wii/dp/B00RSXRLUE/ref=sr_1_3
 
-L'explication : https://github.com/exilexi/lfm-discord/blob/master/adaptateur.md
+Tous les autres adaptateurs, y compris le Mayflash 2 ports, sont <b>dangereux</b> pour ta manette. Ils peuvent avoir du lag, ce qui pose problème mais n'est pas très grave, mais ils peuvent surtout arracher son port et dans ce cas, elle sera complètement inutilisable !
+
+## Quel écran utiliser ?
+
+À peu près n'importe quel écran fait l'affaire, si tu sais choisir le bon buffer. 1ms de response time ça ne veut rien dire ; 144Hz c'est généralement la meilleure fréquence pour jouer.
 
 # Bugs et réglages
 
