@@ -9,7 +9,7 @@ Il faut jouer avec la même version que l'adversaire pour pouvoir host ou se con
 Project Slippi est une version modifiée de FM 5.9 qui permet d’enregistrer des replays de vos matchs de Melee, avec des stats détaillés liées à des fichiers .slp. Il est également livré avec un programme facile à utiliser pour visualiser les replays en question et accéder aux statistiques stockées. 
 
 Sachez qu'il existe également un launcher qui vous permet de créer et rejoindre des salles de netplay en un clic, et qui est lié à Smash Ladder pour augmenter encore le confort d'utilisation lors du grind :)
-Suivez le guide: https://www.smashladder.com/blogs/view/26zt/2017-03-21/smash-ladder-desktop-dolphin-launcher
+Suivez le guide: https://www.smashladder.com/guides/view/27dz/project-slippi-dolphin-launcher-2-0-guide-windows
 
 En plus de l'émulateur, vous aurez besoin de l'ISO du jeu. Depuis 2019, l'Europe joue en NTSC (version japonaise/américaine). Tapez la commande !iso dans le Discord LFM pour trouver un lien de téléchargement à jour. 
 
