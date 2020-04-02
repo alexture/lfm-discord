@@ -63,6 +63,8 @@ Tous les autres adaptateurs, y compris le Mayflash 2 ports, sont <b>dangereux</b
 
 À peu près n'importe quel écran fait l'affaire, si tu sais choisir le bon buffer. 1ms de response time ça ne veut rien dire ; 144Hz c'est généralement la meilleure fréquence pour jouer.
 
+Lien utile : https://displaylag.com/exposed-input-lag-vs-response-time/
+
 # Bugs et réglages
 
 ## Ma manette GC n'est pas reconnue dans le jeu, pourquoi ?
